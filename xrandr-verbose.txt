@@ -1,0 +1,54 @@
+Screen 0: minimum 8 x 8, current 1920 x 1080, maximum 32767 x 32767
+HDMI-0 connected primary 1920x1080+0+0 (0x19e) left (normal left inverted right x axis y axis) 0mm x 0mm
+	Identifier: 0x18b
+	Timestamp:  109045
+	Subpixel:   unknown
+	Gamma:      1.0:1.0:1.0
+	Brightness: 1.0
+	Clones:    
+	CRTC:       0
+	CRTCs:      0
+	Transform:  1.000000 0.000000 0.000000
+	            0.000000 1.000000 0.000000
+	            0.000000 0.000000 1.000000
+	           filter: 
+	EDID: 
+		00ffffffffffff003ed2030000000000
+		0a18010380000078e260b1aa5540b623
+		0c505400000001010101010101010101
+		0101010101017240383a40800d70210a
+		1600477e0000001a000000fc00526966
+		7420444b320a20202020000000ff004d
+		5343454d4152364b3944414b000000fd
+		00384d1e9611000a20202020202001ea
+		020304038e33383a40800d70210a1600
+		477e0000001ade3d383a40800d70210a
+		1600477e0000001ad933383a40b41830
+		210ac600477e0000001a000000000000
+		00000000000000000000000000000000
+		00000000000000000000000000000000
+		00000000000000000000000000000000
+		000000000000000000000000000000f0
+	TegraOverlayBlendmode: Opaque 
+		supported: Opaque, SourceAlphaBlend, PremultSourceAlphaBlend
+	TegraOverlayPriority: 255 
+		range: (0, 255)
+	BorderDimensions: 4 
+		supported: 4
+	Border: 0 0 0 0 
+		range: (0, 65535)
+	SignalFormat: TMDS 
+		supported: TMDS
+	ConnectorType: HDMI 
+  1080x1920 (0x19e) 164.989MHz *current +preferred
+        h: width  1080 start 1113 end 1123 total 1138 skew    0 clock 144.98KHz
+        v: height 1920 start 1922 end 1928 total 1933           clock  75.00Hz
+  1080x1920 (0x19f) 158.403MHz
+        h: width  1080 start 1113 end 1123 total 1138 skew    0 clock 139.19KHz
+        v: height 1920 start 1922 end 1928 total 1933           clock  72.01Hz
+  1080x1920 (0x1a0) 131.995MHz
+        h: width  1080 start 1113 end 1123 total 1138 skew    0 clock 115.99KHz
+        v: height 1920 start 1922 end 1928 total 1933           clock  60.00Hz
+  1080x948 (0x1a1) 132.731MHz
+        h: width  1080 start 1113 end 1123 total 1138 skew    0 clock 116.64KHz
+        v: height  948 start  960 end  966 total  972           clock 120.00Hz
